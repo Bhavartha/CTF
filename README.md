@@ -1,2 +1,2 @@
 # CTF
-Contains solutions to various CTF challenges
+Contains flags of various ctf problems
