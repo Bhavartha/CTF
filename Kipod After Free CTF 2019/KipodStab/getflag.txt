@@ -2,4 +2,4 @@ The page isnt Apache but is actually Docker
 
 use dirsearch.py to find pages
 
-flag located in /DockerFile
+flag located in /Dockerfile
