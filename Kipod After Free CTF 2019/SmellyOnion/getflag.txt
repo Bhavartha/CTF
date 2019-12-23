@@ -1,0 +1,3 @@
+
+Keep extracting the zips and note the COMMENTS
+then base16 decode the string of COMMENTS
