@@ -1,0 +1,5 @@
+Save the jwt cookie as a text file
+
+Use JohnTheReaper with rockyou.txt to find the key of JWT
+
+Modify expiry and click value of the cookie using some website :D
