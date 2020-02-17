@@ -1,0 +1,6 @@
+hack_complete
+
+run strings to get password
+binwalk to extract zip
+unlock zip with that password
+eog the extracted image
