@@ -12,3 +12,11 @@ class Solution:
         for i in d.keys():
              if d[i]>ln//2:
                     return i
+
+
+
+#OR
+
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        return sorted(nums)[len(nums)//2]
